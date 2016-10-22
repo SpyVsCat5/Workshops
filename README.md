@@ -4,5 +4,8 @@
 - https://www.youtube.com/watch?v=8WF0ddy0t5I
 
 ### Scans
+- https://www.youtube.com/watch?v=CZqWwmAkq-U
+
+### Exploitation Web
 - Lien youtube à suivre
 
