@@ -8,10 +8,10 @@
 
 ## Hiver 2017
  - Introduction au hacking (par [jorkanofaln](https://github.com/jorkanofaln))
- - Injections SQL 101
- - XSS 101
- - Rétro-ingénierie ASM
- - Exploitation binaire
+ - Injections SQL 101 (par [Corb3nik](https://github.com/Corb3nik))
+ - XSS 101 (par [Corb3nik](https://github.com/Corb3nik))
+ - Rétro-ingénierie ASM (par [Corb3nik](https://github.com/Corb3nik))
+ - Exploitation binaire (par [Corb3nik](https://github.com/Corb3nik))
  - CTF récapitulatif
 
 
