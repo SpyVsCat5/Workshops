@@ -7,7 +7,7 @@
  - Exploitation et post exploitation
 
 ## Hiver 2017
- - Introduction au hacking (par jorkanofaln)
+ - Introduction au hacking (par [jorkanofaln](https://github.com/jorkanofaln))
  - Injections SQL 101
  - XSS 101
  - Rétro-ingénierie ASM
